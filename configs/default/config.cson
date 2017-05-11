@@ -1,0 +1,19 @@
+title: "Default Configuration"
+type: "object"
+properties:
+  options:
+    title: "Options"
+    type: "object"
+    properties:
+      beat:
+        title: "Beat Force"
+        type: "number"
+      bpm:
+        title: "BPM"
+        type: "number"
+      phase:
+        title: "Phase"
+        type: "number"
+      quantum:
+        title: "Quantum"
+        type: "number"
